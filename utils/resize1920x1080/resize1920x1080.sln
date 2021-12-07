@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resize1920x1080", "resize1920x1080\resize1920x1080.csproj", "{156C2F1B-DB80-4FDB-BA75-9CA1A8076963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156C2F1B-DB80-4FDB-BA75-9CA1A8076963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156C2F1B-DB80-4FDB-BA75-9CA1A8076963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156C2F1B-DB80-4FDB-BA75-9CA1A8076963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156C2F1B-DB80-4FDB-BA75-9CA1A8076963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF14F11F-AA18-45FE-9C50-75D81124EAC1}
+	EndGlobalSection
+EndGlobal
